@@ -1,0 +1,52 @@
+{
+  "admin": [
+    {
+      "id": "f036",
+      "name": "kumarmk",
+      "email": "muthu@gmail.com",
+      "password": "muthukumar",
+      "confirmPassword": "muthukumar",
+      "mobile": "6968939894"
+    },
+    {
+      "id": "3f5a",
+      "name": "dfhjkl",
+      "email": "muthu@gmail.com",
+      "password": "kumarvjk",
+      "confirmPassword": "kumarvjk",
+      "mobile": "2345678909"
+    },
+    {
+      "id": "4a65",
+      "name": "sdfghjkl",
+      "email": "muthu@gmail.com",
+      "password": "asdfghjk",
+      "confirmPassword": "asdfghjk",
+      "mobile": "6268783671"
+    },
+    {
+      "id": "c0a8",
+      "name": "qwertyuioop",
+      "email": "muthukumar@gmail.com",
+      "password": "klklklkl",
+      "confirmPassword": "klklklkl",
+      "mobile": "2739826787"
+    },
+    {
+      "id": "fa69",
+      "name": "dfghj",
+      "email": "muthu12@gmail.com",
+      "password": "asdfghjk",
+      "confirmPassword": "asdfghjk",
+      "mobile": "2345678901"
+    },
+    {
+      "id": "a80b",
+      "name": "asdfghjk",
+      "email": "muthu231@gmail.com",
+      "password": "asdfghjk",
+      "confirmPassword": "asdfghjk",
+      "mobile": "1234567890"
+    }
+  ]
+}
